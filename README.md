@@ -1,62 +1,54 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=7E3ACE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saurabh+Gupta;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+# Hi there, I'm Saurabh! 👋
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Saurabh-101&label=Profile%20Views&color=6&icon=5&pretty=true" />
-  </a>
-  <a href="https://github.com/Saurabh-101?tab=followers">
-    <img src="https://img.shields.io/github/followers/Saurabh-101?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://github.com/Saurabh-101?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-10+-blue?style=flat&logo=github" alt="Repositories">
-  </a>
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/Saurabh-101?label=Follow&style=social)](https://github.com/Saurabh-101)
+[![Visitors](https://komarev.com/ghpvc/?username=Saurabh-101&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Saurabh-101)
 
+I'm a passionate developer who loves to build innovative solutions and contribute to open-source projects. Welcome to my GitHub profile!
 
+## 🔧 Technologies & Tools
 
-## 🚀 About Me
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 
-kotlin
-class AboutMe {
-    val currentRole = "Full Stack Developer"
-    val learning = listOf("Spring Boot", "Microservices", "Cloud Architecture")
-    val hobbies = listOf("Coding", "Open Source", "Tech Blogging")
-    val funFact = "Can solve bugs in my dreams"
-    
-    fun currentProject() = "Building Fashion Nation (Next.js E-commerce)"
-}
+## 📈 GitHub Stats
 
-🛠 Tech Stack
-📋 Languages
-https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
-https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
+<a href="https://github.com/Saurabh-101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saurabh-101&show_icons=true&theme=radical" alt="Saurabh's GitHub stats" />
+</a>
 
-🖥 Frontend
-https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+<a href="https://github.com/Saurabh-101">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-101&layout=compact&theme=radical" />
+</a>
 
-⚙ Backend
-https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white
-https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white
+## 🔥 Streak Stats
 
-🗃 Databases
-https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
-https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-101&theme=radical" alt="Saurabh's streak stats" />
+</p>
 
-🛠 Tools
-https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+## 🤝 Let's Connect
 
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabh-101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-101&layout=compact&theme=radical" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-101&theme=radical" alt="GitHub Streak" /> </div>
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/saurabhgupta16" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:saurabhgupta72dh3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/saurabh_gupta07"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
-<div align="center"> <img src="https://github.com/Saurabh-101/Saurabh-101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+## � Highlight Projects
+
+<!-- Replace with your actual project links -->
+🔹 [Project 1](https://github.com/Saurabh-101/project1) - Short description  
+🔹 [Project 2](https://github.com/Saurabh-101/project2) - Short description  
+🔹 [Project 3](https://github.com/Saurabh-101/project3) - Short description  
+
+## 💡 Currently Learning
+
+- Machine Learning concepts
+- Cloud Native technologies
+- Advanced Data Structures
+
+## 📫 How to reach me
+
+Feel free to reach out to me for collaborations or just a friendly chat!
