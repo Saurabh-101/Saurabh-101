@@ -36,13 +36,6 @@ I'm a passionate developer who loves to build innovative solutions and contribut
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-## � Highlight Projects
-
-<!-- Replace with your actual project links -->
-🔹 [Project 1](https://github.com/Saurabh-101/project1) - Short description  
-🔹 [Project 2](https://github.com/Saurabh-101/project2) - Short description  
-🔹 [Project 3](https://github.com/Saurabh-101/project3) - Short description  
-
 ## 💡 Currently Learning
 
 - Machine Learning concepts
