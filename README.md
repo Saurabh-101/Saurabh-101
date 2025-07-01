@@ -14,11 +14,11 @@
   </a>
 </div>
 
----
+
 
 ## 🚀 About Me
 
-```kotlin
+kotlin
 class AboutMe {
     val currentRole = "Full Stack Developer"
     val learning = listOf("Spring Boot", "Microservices", "Cloud Architecture")
@@ -59,4 +59,4 @@ https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logo
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saurabh-101&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh-101&layout=compact&theme=radical" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-101&theme=radical" alt="GitHub Streak" /> </div>
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/saurabhgupta16" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:saurabhgupta72dh3@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://leetcode.com/saurabh_gupta07"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /> </a> <a href="https://twitter.com/yourusername"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
-<div align="center"> <img src="https://github.com/Saurabh-101/Saurabh-101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div> ```
+<div align="center"> <img src="https://github.com/Saurabh-101/Saurabh-101/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div> 
