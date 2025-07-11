@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on BG.Buddy.<br>🤝 I’m looking for help with Integrating Payment Gateway APIs.<br>🌱 I’m currently learning DSA and fullstack dev.<br>💬 Ask me about fullstack techs<br>⚡ Fun fact "I am hard wired to have fun."
+🔭 I’m currently working on BG.Buddy.<br>
+🤝 I’m looking for help with Integrating Payment Gateway APIs.
+<br>🌱 I’m currently learning DSA and fullstack dev.
+<br>💬 Ask me about fullstack techs<br>
+⚡ Fun fact "I am hard wired to have fun."
 
 
 ## 🌐 Socials:
