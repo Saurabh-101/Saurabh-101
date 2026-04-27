@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BG.Buddy.<br>
+🔭 I’m currently learning NodeJs & ExpressJs.<br>
 🤝 I’m looking for help with Integrating Payment Gateway APIs.
 <br>🌱 I’m currently learning DSA and fullstack dev.
 <br>💬 Ask me about fullstack techs<br>
